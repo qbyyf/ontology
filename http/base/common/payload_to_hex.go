@@ -18,11 +18,11 @@
 package common
 
 import (
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/qbyyf/go-ethereum/rlp"
 	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/payload"
-	"github.com/ontio/ontology/core/types"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/payload"
+	"github.com/qbyyf/ontology/core/types"
 )
 
 type PayloadInfo interface{}

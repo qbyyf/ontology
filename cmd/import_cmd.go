@@ -25,14 +25,14 @@ import (
 	"os"
 
 	"github.com/gosuri/uiprogress"
-	"github.com/ontio/ontology/cmd/utils"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/common/serialization"
-	"github.com/ontio/ontology/core/genesis"
-	"github.com/ontio/ontology/core/ledger"
-	"github.com/ontio/ontology/core/types"
+	"github.com/qbyyf/ontology/cmd/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/common/serialization"
+	"github.com/qbyyf/ontology/core/genesis"
+	"github.com/qbyyf/ontology/core/ledger"
+	"github.com/qbyyf/ontology/core/types"
 	"github.com/urfave/cli"
 )
 

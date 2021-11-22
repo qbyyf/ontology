@@ -24,12 +24,12 @@ import (
 	"fmt"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/smartcontract/service/native"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 func regIdWithPublicKey(srvc *native.NativeService) ([]byte, error) {

@@ -23,14 +23,14 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/blake2b"
-	"github.com/ethereum/go-ethereum/crypto/bls12381"
-	"github.com/ethereum/go-ethereum/crypto/bn256"
-	errors2 "github.com/ontio/ontology/vm/evm/errors"
-	"github.com/ontio/ontology/vm/evm/params"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/common/math"
+	"github.com/qbyyf/go-ethereum/crypto"
+	"github.com/qbyyf/go-ethereum/crypto/blake2b"
+	"github.com/qbyyf/go-ethereum/crypto/bls12381"
+	"github.com/qbyyf/go-ethereum/crypto/bn256"
+	errors2 "github.com/qbyyf/ontology/vm/evm/errors"
+	"github.com/qbyyf/ontology/vm/evm/params"
 	"golang.org/x/crypto/ripemd160"
 )
 

@@ -24,11 +24,11 @@ import (
 	"sync"
 	"time"
 
-	common2 "github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/p2pserver/common"
-	p2p "github.com/ontio/ontology/p2pserver/net/protocol"
+	common2 "github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/p2pserver/common"
+	p2p "github.com/qbyyf/ontology/p2pserver/net/protocol"
 )
 
 type PersistRecentPeerService struct {

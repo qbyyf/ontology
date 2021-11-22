@@ -20,11 +20,11 @@ package ontid
 import (
 	"errors"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/core/states"
-	"github.com/ontio/ontology/smartcontract/service/native"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/core/states"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 func updateTime(srvc *native.NativeService, key []byte) {

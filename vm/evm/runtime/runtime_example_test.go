@@ -20,8 +20,8 @@ package runtime_test
 import (
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ontio/ontology/vm/evm/runtime"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/ontology/vm/evm/runtime"
 )
 
 func ExampleExecute() {

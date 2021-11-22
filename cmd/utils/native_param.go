@@ -27,12 +27,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ontio/ontology/cmd/abi"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/types"
-	httpcom "github.com/ontio/ontology/http/base/common"
-	svrneovm "github.com/ontio/ontology/smartcontract/service/neovm"
-	"github.com/ontio/ontology/vm/neovm"
+	"github.com/qbyyf/ontology/cmd/abi"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/types"
+	httpcom "github.com/qbyyf/ontology/http/base/common"
+	svrneovm "github.com/qbyyf/ontology/smartcontract/service/neovm"
+	"github.com/qbyyf/ontology/vm/neovm"
 )
 
 func NewNativeInvokeTransaction(gasPrice, gasLimit uint64, contractAddr common.Address, version byte,

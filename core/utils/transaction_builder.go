@@ -26,11 +26,11 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/payload"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/smartcontract/states"
-	vm "github.com/ontio/ontology/vm/neovm"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/payload"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/smartcontract/states"
+	vm "github.com/qbyyf/ontology/vm/neovm"
 )
 
 const NATIVE_INVOKE_NAME = "Ontology.Native.Invoke" // copy from smartcontract/service/neovm/config.go to avoid cycle dependences

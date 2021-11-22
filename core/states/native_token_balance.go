@@ -24,7 +24,7 @@ import (
 	"math/big"
 
 	"github.com/laizy/bigint"
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 )
 
 const ScaleFactor = 1000000000

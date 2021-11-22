@@ -18,7 +18,7 @@
 package evm
 
 import (
-	"github.com/ontio/ontology/vm/evm/params"
+	"github.com/qbyyf/ontology/vm/evm/params"
 )
 
 func minSwapStack(n int) int {

@@ -27,17 +27,17 @@ import (
 
 	"github.com/ontio/ontology-crypto/keypair"
 	"github.com/ontio/ontology-crypto/vrf"
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	vconfig "github.com/ontio/ontology/consensus/vbft/config"
-	"github.com/ontio/ontology/core/ledger"
-	"github.com/ontio/ontology/core/signature"
-	"github.com/ontio/ontology/core/states"
-	scommon "github.com/ontio/ontology/core/store/common"
-	"github.com/ontio/ontology/core/store/overlaydb"
-	gov "github.com/ontio/ontology/smartcontract/service/native/governance"
-	nutils "github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	vconfig "github.com/qbyyf/ontology/consensus/vbft/config"
+	"github.com/qbyyf/ontology/core/ledger"
+	"github.com/qbyyf/ontology/core/signature"
+	"github.com/qbyyf/ontology/core/states"
+	scommon "github.com/qbyyf/ontology/core/store/common"
+	"github.com/qbyyf/ontology/core/store/overlaydb"
+	gov "github.com/qbyyf/ontology/smartcontract/service/native/governance"
+	nutils "github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 func SignMsg(account *account.Account, msg ConsensusMsg) ([]byte, error) {

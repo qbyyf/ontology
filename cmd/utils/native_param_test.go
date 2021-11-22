@@ -23,9 +23,9 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/ontio/ontology/cmd/abi"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/vm/neovm"
+	"github.com/qbyyf/ontology/cmd/abi"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/vm/neovm"
 )
 
 func TestParseNativeParam(t *testing.T) {

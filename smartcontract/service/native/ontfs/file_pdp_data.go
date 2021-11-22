@@ -21,9 +21,9 @@ package ontfs
 import (
 	"fmt"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/smartcontract/service/native/ontfs/pdp"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/smartcontract/service/native/ontfs/pdp"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 type PdpData struct {

@@ -22,11 +22,11 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/cmd/utils"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/password"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/cmd/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/password"
 	"github.com/urfave/cli"
 )
 

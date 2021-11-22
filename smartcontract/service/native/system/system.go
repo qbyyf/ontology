@@ -22,18 +22,18 @@ import (
 	"fmt"
 	"math/big"
 
-	config2 "github.com/ontio/ontology/common/config"
+	config2 "github.com/qbyyf/ontology/common/config"
 
-	common2 "github.com/ethereum/go-ethereum/common"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/smartcontract/event"
-	evm2 "github.com/ontio/ontology/smartcontract/service/evm"
-	"github.com/ontio/ontology/smartcontract/service/native"
-	"github.com/ontio/ontology/smartcontract/service/native/ong"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
-	"github.com/ontio/ontology/smartcontract/storage"
-	"github.com/ontio/ontology/vm/evm"
-	"github.com/ontio/ontology/vm/evm/params"
+	common2 "github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/smartcontract/event"
+	evm2 "github.com/qbyyf/ontology/smartcontract/service/evm"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
+	"github.com/qbyyf/ontology/smartcontract/service/native/ong"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/smartcontract/storage"
+	"github.com/qbyyf/ontology/vm/evm"
+	"github.com/qbyyf/ontology/vm/evm/params"
 )
 
 const (

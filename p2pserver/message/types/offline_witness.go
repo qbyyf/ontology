@@ -23,11 +23,11 @@ import (
 	"errors"
 	"math"
 
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/common"
-	vconfig "github.com/ontio/ontology/consensus/vbft/config"
-	"github.com/ontio/ontology/core/signature"
-	common2 "github.com/ontio/ontology/p2pserver/common"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/common"
+	vconfig "github.com/qbyyf/ontology/consensus/vbft/config"
+	"github.com/qbyyf/ontology/core/signature"
+	common2 "github.com/qbyyf/ontology/p2pserver/common"
 )
 
 type OfflineWitnessMsg struct {

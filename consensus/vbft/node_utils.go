@@ -23,12 +23,12 @@ import (
 	"math"
 	"sync/atomic"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
-	vconfig "github.com/ontio/ontology/consensus/vbft/config"
-	"github.com/ontio/ontology/core/signature"
-	msgpack "github.com/ontio/ontology/p2pserver/message/msg_pack"
-	p2pmsg "github.com/ontio/ontology/p2pserver/message/types"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
+	vconfig "github.com/qbyyf/ontology/consensus/vbft/config"
+	"github.com/qbyyf/ontology/core/signature"
+	msgpack "github.com/qbyyf/ontology/p2pserver/message/msg_pack"
+	p2pmsg "github.com/qbyyf/ontology/p2pserver/message/types"
 )
 
 func (self *Server) GetCompletedBlockNum() uint32 {

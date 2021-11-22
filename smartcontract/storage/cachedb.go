@@ -19,11 +19,11 @@
 package storage
 
 import (
-	comm "github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/core/payload"
-	"github.com/ontio/ontology/core/store/common"
-	"github.com/ontio/ontology/core/store/overlaydb"
+	comm "github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/core/payload"
+	"github.com/qbyyf/ontology/core/store/common"
+	"github.com/qbyyf/ontology/core/store/overlaydb"
 	"github.com/syndtr/goleveldb/leveldb/util"
 )
 

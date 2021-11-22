@@ -26,7 +26,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 )
 
 var (

@@ -24,10 +24,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ontio/ontology/account"
-	clisvrcom "github.com/ontio/ontology/cmd/sigsvr/common"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
+	"github.com/qbyyf/ontology/account"
+	clisvrcom "github.com/qbyyf/ontology/cmd/sigsvr/common"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
 )
 
 type ExportAccountReq struct {

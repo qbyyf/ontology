@@ -22,11 +22,11 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/errors"
-	"github.com/ontio/ontology/smartcontract/service/native"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/errors"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 func FsGetNodeInfoList(native *native.NativeService) ([]byte, error) {

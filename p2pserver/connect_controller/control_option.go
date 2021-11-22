@@ -18,8 +18,8 @@
 package connect_controller
 
 import (
-	"github.com/ontio/ontology/common/config"
-	p2p "github.com/ontio/ontology/p2pserver/net/protocol"
+	"github.com/qbyyf/ontology/common/config"
+	p2p "github.com/qbyyf/ontology/p2pserver/net/protocol"
 )
 
 type ConnCtrlOption struct {

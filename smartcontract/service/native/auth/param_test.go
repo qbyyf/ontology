@@ -24,8 +24,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 var (

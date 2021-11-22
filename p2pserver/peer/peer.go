@@ -28,11 +28,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	comm "github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/p2pserver/common"
-	conn "github.com/ontio/ontology/p2pserver/link"
-	"github.com/ontio/ontology/p2pserver/message/types"
+	comm "github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/p2pserver/common"
+	conn "github.com/qbyyf/ontology/p2pserver/link"
+	"github.com/qbyyf/ontology/p2pserver/message/types"
 )
 
 // PeerInfo provides the basic information of a peer

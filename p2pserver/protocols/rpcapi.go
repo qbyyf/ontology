@@ -19,9 +19,9 @@
 package protocols
 
 import (
-	"github.com/ontio/ontology/http/base/error"
-	"github.com/ontio/ontology/http/base/rpc"
-	"github.com/ontio/ontology/p2pserver/protocols/subnet"
+	"github.com/qbyyf/ontology/http/base/error"
+	"github.com/qbyyf/ontology/http/base/rpc"
+	"github.com/qbyyf/ontology/p2pserver/protocols/subnet"
 )
 
 func RegisterProposeOfflineVote(subnet *subnet.SubNet) {

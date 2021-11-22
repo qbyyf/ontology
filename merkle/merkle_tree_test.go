@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 	"github.com/stretchr/testify/assert"
 )
 

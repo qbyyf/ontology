@@ -22,8 +22,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/cmd/sigsvr/store"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/cmd/sigsvr/store"
 )
 
 var DefWalletStore *store.WalletStore

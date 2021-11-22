@@ -24,11 +24,11 @@ import (
 	"fmt"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/signature"
-	"github.com/ontio/ontology/vm/neovm/constants"
-	"github.com/ontio/ontology/vm/neovm/errors"
-	"github.com/ontio/ontology/vm/neovm/types"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/signature"
+	"github.com/qbyyf/ontology/vm/neovm/constants"
+	"github.com/qbyyf/ontology/vm/neovm/errors"
+	"github.com/qbyyf/ontology/vm/neovm/types"
 	"golang.org/x/crypto/ripemd160"
 )
 

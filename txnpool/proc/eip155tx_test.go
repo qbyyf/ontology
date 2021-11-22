@@ -23,13 +23,13 @@ import (
 	"math/big"
 	"testing"
 
-	ethcomm "github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/rlp"
-	sysconfig "github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/constants"
-	txtypes "github.com/ontio/ontology/core/types"
+	ethcomm "github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/core/types"
+	"github.com/qbyyf/go-ethereum/crypto"
+	"github.com/qbyyf/go-ethereum/rlp"
+	sysconfig "github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/constants"
+	txtypes "github.com/qbyyf/ontology/core/types"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -23,9 +23,9 @@ import (
 	"io"
 	"sort"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/serialization"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/serialization"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 type Status uint8

@@ -22,14 +22,14 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/crypto"
 	"github.com/holiman/uint256"
 
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
-	"github.com/ontio/ontology/vm/evm/errors"
-	"github.com/ontio/ontology/vm/evm/params"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/vm/evm/errors"
+	"github.com/qbyyf/ontology/vm/evm/params"
 )
 
 // emptyCodeHash is used by create to ensure deployment is disallowed to already

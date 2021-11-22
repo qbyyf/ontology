@@ -19,8 +19,8 @@
 package types
 
 import (
-	common2 "github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/p2pserver/common"
+	common2 "github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/p2pserver/common"
 )
 
 type UpdatePeerKeyId struct {

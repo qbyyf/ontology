@@ -24,14 +24,14 @@ import (
 	"testing"
 
 	"github.com/laizy/bigint"
-	"github.com/ontio/ontology/common/constants"
+	"github.com/qbyyf/ontology/common/constants"
 
-	ethcomm "github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/core/payload"
+	ethcomm "github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/core/types"
+	"github.com/qbyyf/go-ethereum/crypto"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/core/payload"
 	"github.com/stretchr/testify/assert"
 )
 

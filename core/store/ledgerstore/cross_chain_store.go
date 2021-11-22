@@ -22,10 +22,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ontio/ontology/common"
-	scom "github.com/ontio/ontology/core/store/common"
-	"github.com/ontio/ontology/core/store/leveldbstore"
-	"github.com/ontio/ontology/core/types"
+	"github.com/qbyyf/ontology/common"
+	scom "github.com/qbyyf/ontology/core/store/common"
+	"github.com/qbyyf/ontology/core/store/leveldbstore"
+	"github.com/qbyyf/ontology/core/types"
 )
 
 const (

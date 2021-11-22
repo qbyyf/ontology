@@ -19,12 +19,12 @@
 package stateful
 
 import (
-	ethcomm "github.com/ethereum/go-ethereum/common"
+	ethcomm "github.com/qbyyf/go-ethereum/common"
 	"github.com/gammazero/workerpool"
-	"github.com/ontio/ontology/core/ledger"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/errors"
-	vatypes "github.com/ontio/ontology/validator/types"
+	"github.com/qbyyf/ontology/core/ledger"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/errors"
+	vatypes "github.com/qbyyf/ontology/validator/types"
 )
 
 type ValidatorPool struct {

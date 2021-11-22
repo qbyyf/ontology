@@ -25,13 +25,13 @@ import (
 	"time"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/payload"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/core/utils"
-	"github.com/ontio/ontology/smartcontract/service/native/ont"
-	nutils "github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/payload"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/core/utils"
+	"github.com/qbyyf/ontology/smartcontract/service/native/ont"
+	nutils "github.com/qbyyf/ontology/smartcontract/service/native/utils"
 	"github.com/stretchr/testify/assert"
 )
 

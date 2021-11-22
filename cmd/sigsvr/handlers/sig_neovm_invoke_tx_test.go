@@ -22,8 +22,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	clisvrcom "github.com/ontio/ontology/cmd/sigsvr/common"
-	"github.com/ontio/ontology/cmd/utils"
+	clisvrcom "github.com/qbyyf/ontology/cmd/sigsvr/common"
+	"github.com/qbyyf/ontology/cmd/utils"
 )
 
 func TestSigNeoVMInvokeTx(t *testing.T) {

@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ontio/ontology/common/constants"
+	"github.com/qbyyf/ontology/common/constants"
 )
 
 func GetChainConfig(chainId uint32) *ChainConfig {

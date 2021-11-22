@@ -23,14 +23,14 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/ontio/ontology/cmd"
-	"github.com/ontio/ontology/cmd/abi"
-	cmdsvr "github.com/ontio/ontology/cmd/sigsvr"
-	clisvrcom "github.com/ontio/ontology/cmd/sigsvr/common"
-	"github.com/ontio/ontology/cmd/sigsvr/store"
-	"github.com/ontio/ontology/cmd/utils"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/log"
+	"github.com/qbyyf/ontology/cmd"
+	"github.com/qbyyf/ontology/cmd/abi"
+	cmdsvr "github.com/qbyyf/ontology/cmd/sigsvr"
+	clisvrcom "github.com/qbyyf/ontology/cmd/sigsvr/common"
+	"github.com/qbyyf/ontology/cmd/sigsvr/store"
+	"github.com/qbyyf/ontology/cmd/utils"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/log"
 	"github.com/urfave/cli"
 )
 

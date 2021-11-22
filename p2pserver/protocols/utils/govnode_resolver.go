@@ -26,13 +26,13 @@ import (
 	"unsafe"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/log"
-	vconfig "github.com/ontio/ontology/consensus/vbft/config"
-	"github.com/ontio/ontology/core/ledger"
-	"github.com/ontio/ontology/smartcontract/service/native/governance"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/log"
+	vconfig "github.com/qbyyf/ontology/consensus/vbft/config"
+	"github.com/qbyyf/ontology/core/ledger"
+	"github.com/qbyyf/ontology/smartcontract/service/native/governance"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 const GovNodeCacheTime = time.Minute * 10

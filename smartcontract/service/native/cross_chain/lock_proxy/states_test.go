@@ -23,9 +23,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/constants"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/constants"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -18,11 +18,11 @@
 package evm
 
 import (
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/common"
 	"github.com/holiman/uint256"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/vm/evm/errors"
-	"github.com/ontio/ontology/vm/evm/params"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/vm/evm/errors"
+	"github.com/qbyyf/ontology/vm/evm/params"
 	"golang.org/x/crypto/sha3"
 )
 

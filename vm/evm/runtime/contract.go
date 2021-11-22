@@ -5,11 +5,11 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
+	"github.com/qbyyf/go-ethereum/accounts/abi"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/common/hexutil"
 	"github.com/holiman/uint256"
-	"github.com/ontio/ontology/common/log"
+	"github.com/qbyyf/ontology/common/log"
 )
 
 type Contract struct {

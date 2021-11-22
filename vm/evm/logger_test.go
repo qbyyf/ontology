@@ -21,10 +21,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/common"
 	"github.com/holiman/uint256"
-	"github.com/ontio/ontology/smartcontract/storage"
-	"github.com/ontio/ontology/vm/evm/params"
+	"github.com/qbyyf/ontology/smartcontract/storage"
+	"github.com/qbyyf/ontology/vm/evm/params"
 )
 
 type dummyContractRef struct {

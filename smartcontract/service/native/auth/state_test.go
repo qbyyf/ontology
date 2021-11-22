@@ -22,7 +22,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 )
 
 func TestSerRoleFuncs(t *testing.T) {

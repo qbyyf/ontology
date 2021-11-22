@@ -21,9 +21,9 @@ package dht
 import (
 	"time"
 
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/p2pserver/common"
-	kb "github.com/ontio/ontology/p2pserver/dht/kbucket"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/p2pserver/common"
+	kb "github.com/qbyyf/ontology/p2pserver/dht/kbucket"
 )
 
 // Pool size is the number of nodes used for group find/set RPC calls

@@ -23,9 +23,9 @@ import (
 	"math/big"
 
 	"github.com/JohnCGriffin/overflow"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/vm/neovm/constants"
-	"github.com/ontio/ontology/vm/neovm/errors"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/vm/neovm/constants"
+	"github.com/qbyyf/ontology/vm/neovm/errors"
 )
 
 type IntValue struct {

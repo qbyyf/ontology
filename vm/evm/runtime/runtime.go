@@ -21,15 +21,15 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/crypto"
 	"github.com/holiman/uint256"
-	"github.com/ontio/ontology/core/store/leveldbstore"
-	"github.com/ontio/ontology/core/store/overlaydb"
-	"github.com/ontio/ontology/smartcontract/service/native/ong"
-	"github.com/ontio/ontology/smartcontract/storage"
-	"github.com/ontio/ontology/vm/evm"
-	"github.com/ontio/ontology/vm/evm/params"
+	"github.com/qbyyf/ontology/core/store/leveldbstore"
+	"github.com/qbyyf/ontology/core/store/overlaydb"
+	"github.com/qbyyf/ontology/smartcontract/service/native/ong"
+	"github.com/qbyyf/ontology/smartcontract/storage"
+	"github.com/qbyyf/ontology/vm/evm"
+	"github.com/qbyyf/ontology/vm/evm/params"
 )
 
 // Config is a basic type specifying certain configuration flags for running

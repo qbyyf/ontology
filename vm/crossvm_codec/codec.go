@@ -23,8 +23,8 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
 )
 
 const (

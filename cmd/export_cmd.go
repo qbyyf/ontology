@@ -25,8 +25,8 @@ import (
 	"time"
 
 	"github.com/gosuri/uiprogress"
-	"github.com/ontio/ontology/cmd/utils"
-	"github.com/ontio/ontology/common/serialization"
+	"github.com/qbyyf/ontology/cmd/utils"
+	"github.com/qbyyf/ontology/common/serialization"
 	"github.com/urfave/cli"
 )
 

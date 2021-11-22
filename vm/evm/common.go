@@ -20,7 +20,7 @@ package evm
 import (
 	"math"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/common"
 	"github.com/holiman/uint256"
 )
 

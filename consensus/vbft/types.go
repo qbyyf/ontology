@@ -23,9 +23,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ontio/ontology/common"
-	vconfig "github.com/ontio/ontology/consensus/vbft/config"
-	"github.com/ontio/ontology/core/types"
+	"github.com/qbyyf/ontology/common"
+	vconfig "github.com/qbyyf/ontology/consensus/vbft/config"
+	"github.com/qbyyf/ontology/core/types"
 )
 
 type Block struct {

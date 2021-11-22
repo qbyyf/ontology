@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/smartcontract/service/native"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
 )
 
 func TestContext(t *testing.T) {

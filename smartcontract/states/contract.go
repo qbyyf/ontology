@@ -21,8 +21,8 @@ package states
 import (
 	"io"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/smartcontract/event"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/smartcontract/event"
 )
 
 // Invoke smart contract struct

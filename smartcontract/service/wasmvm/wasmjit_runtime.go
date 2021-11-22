@@ -32,11 +32,11 @@ import (
 	"math"
 	"unsafe"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/payload"
-	states2 "github.com/ontio/ontology/core/states"
-	"github.com/ontio/ontology/errors"
-	"github.com/ontio/ontology/smartcontract/states"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/payload"
+	states2 "github.com/qbyyf/ontology/core/states"
+	"github.com/qbyyf/ontology/errors"
+	"github.com/qbyyf/ontology/smartcontract/states"
 )
 
 const (

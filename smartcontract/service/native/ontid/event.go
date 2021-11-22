@@ -20,9 +20,9 @@ package ontid
 import (
 	"encoding/hex"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/smartcontract/event"
-	"github.com/ontio/ontology/smartcontract/service/native"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/smartcontract/event"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
 )
 
 func newEvent(srvc *native.NativeService, st interface{}) {

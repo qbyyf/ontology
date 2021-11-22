@@ -21,7 +21,7 @@ package dbft
 import (
 	"io"
 
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 )
 
 type BlockSignatures struct {

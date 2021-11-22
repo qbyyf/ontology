@@ -18,9 +18,9 @@
 package payload
 
 import (
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/go-ethereum/core/types"
+	"github.com/qbyyf/go-ethereum/rlp"
+	"github.com/qbyyf/ontology/common"
 )
 
 type EIP155Code struct {

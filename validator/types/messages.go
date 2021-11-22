@@ -19,9 +19,9 @@
 package types
 
 import (
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/errors"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/errors"
 )
 
 type CheckResponse struct {

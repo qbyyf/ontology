@@ -24,8 +24,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/ontio/ontology/cmd/sigsvr/common"
-	"github.com/ontio/ontology/common/log"
+	"github.com/qbyyf/ontology/cmd/sigsvr/common"
+	"github.com/qbyyf/ontology/common/log"
 )
 
 var DefCliRpcSvr = NewCliRpcServer()

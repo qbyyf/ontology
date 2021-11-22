@@ -24,7 +24,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ontio/ontology/common/log"
+	"github.com/qbyyf/ontology/common/log"
 )
 
 const (

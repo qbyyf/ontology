@@ -19,11 +19,11 @@
 package msgpack
 
 import (
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
-	ct "github.com/ontio/ontology/core/types"
-	msgCommon "github.com/ontio/ontology/p2pserver/common"
-	mt "github.com/ontio/ontology/p2pserver/message/types"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
+	ct "github.com/qbyyf/ontology/core/types"
+	msgCommon "github.com/qbyyf/ontology/p2pserver/common"
+	mt "github.com/qbyyf/ontology/p2pserver/message/types"
 )
 
 //Peer address package

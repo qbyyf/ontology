@@ -23,7 +23,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 )
 
 // HashStore is an interface for persist hash

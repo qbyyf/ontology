@@ -21,9 +21,9 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ontio/ontology/core/store"
-	"github.com/ontio/ontology/vm/evm"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/ontology/core/store"
+	"github.com/qbyyf/ontology/vm/evm"
 )
 
 // NewEVMBlockContext creates a new context for use in the EVM.

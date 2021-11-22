@@ -22,11 +22,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ontio/ontology/common/constants"
+	"github.com/qbyyf/ontology/common/constants"
 
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/types"
+	"github.com/qbyyf/go-ethereum/common/hexutil"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/types"
 )
 
 const (

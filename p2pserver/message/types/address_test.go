@@ -22,8 +22,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ontio/ontology/common"
-	comm "github.com/ontio/ontology/p2pserver/common"
+	"github.com/qbyyf/ontology/common"
+	comm "github.com/qbyyf/ontology/p2pserver/common"
 	"github.com/stretchr/testify/assert"
 )
 

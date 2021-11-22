@@ -19,10 +19,10 @@
 package neovm
 
 import (
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/errors"
-	vm "github.com/ontio/ontology/vm/neovm"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/errors"
+	vm "github.com/qbyyf/ontology/vm/neovm"
 )
 
 // BlockChainGetHeader put blockchain's header to vm stack

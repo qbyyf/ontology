@@ -20,8 +20,8 @@ package types
 import (
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	common2 "github.com/ontio/ontology/common"
+	"github.com/qbyyf/go-ethereum/common"
+	common2 "github.com/qbyyf/ontology/common"
 )
 
 //go:generate gencodec -type Log -field-override logMarshaling -out gen_log_json.go

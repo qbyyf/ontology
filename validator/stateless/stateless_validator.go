@@ -19,11 +19,11 @@
 package stateless
 
 import (
-	"github.com/ontio/ontology/core/types"
+	"github.com/qbyyf/ontology/core/types"
 
 	"github.com/gammazero/workerpool"
-	"github.com/ontio/ontology/core/validation"
-	vatypes "github.com/ontio/ontology/validator/types"
+	"github.com/qbyyf/ontology/core/validation"
+	vatypes "github.com/qbyyf/ontology/validator/types"
 )
 
 type ValidatorPool struct {

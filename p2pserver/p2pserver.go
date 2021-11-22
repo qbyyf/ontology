@@ -22,17 +22,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/core/ledger"
-	"github.com/ontio/ontology/p2pserver/common"
-	"github.com/ontio/ontology/p2pserver/connect_controller"
-	"github.com/ontio/ontology/p2pserver/net/netserver"
-	p2p "github.com/ontio/ontology/p2pserver/net/protocol"
-	"github.com/ontio/ontology/p2pserver/protocols"
-	"github.com/ontio/ontology/p2pserver/protocols/utils"
-	common2 "github.com/ontio/ontology/txnpool/common"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/core/ledger"
+	"github.com/qbyyf/ontology/p2pserver/common"
+	"github.com/qbyyf/ontology/p2pserver/connect_controller"
+	"github.com/qbyyf/ontology/p2pserver/net/netserver"
+	p2p "github.com/qbyyf/ontology/p2pserver/net/protocol"
+	"github.com/qbyyf/ontology/p2pserver/protocols"
+	"github.com/qbyyf/ontology/p2pserver/protocols/utils"
+	common2 "github.com/qbyyf/ontology/txnpool/common"
 )
 
 //P2PServer control all network activities

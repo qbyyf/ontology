@@ -25,12 +25,12 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/core/types"
-	. "github.com/ontio/ontology/smartcontract"
-	neovm2 "github.com/ontio/ontology/smartcontract/service/neovm"
-	"github.com/ontio/ontology/vm/neovm"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/core/types"
+	. "github.com/qbyyf/ontology/smartcontract"
+	neovm2 "github.com/qbyyf/ontology/smartcontract/service/neovm"
+	"github.com/qbyyf/ontology/vm/neovm"
 	"github.com/stretchr/testify/assert"
 )
 

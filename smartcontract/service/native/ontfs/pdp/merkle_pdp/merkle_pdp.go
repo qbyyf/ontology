@@ -25,7 +25,7 @@ import (
 
 	"golang.org/x/crypto/sha3"
 
-	"github.com/ontio/ontology/smartcontract/service/native/ontfs/pdp/types"
+	"github.com/qbyyf/ontology/smartcontract/service/native/ontfs/pdp/types"
 )
 
 const (

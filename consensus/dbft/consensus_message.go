@@ -22,8 +22,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
 )
 
 type ConsensusMessage interface {

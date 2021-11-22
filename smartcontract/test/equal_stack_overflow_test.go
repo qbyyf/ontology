@@ -22,10 +22,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/core/types"
-	. "github.com/ontio/ontology/smartcontract"
-	"github.com/ontio/ontology/vm/neovm"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/core/types"
+	. "github.com/qbyyf/ontology/smartcontract"
+	"github.com/qbyyf/ontology/vm/neovm"
 	"github.com/stretchr/testify/assert"
 )
 

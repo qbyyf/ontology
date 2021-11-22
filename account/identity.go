@@ -28,7 +28,7 @@ import (
 
 	"github.com/itchyny/base58-go"
 	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology/core/types"
+	"github.com/qbyyf/ontology/core/types"
 	"golang.org/x/crypto/ripemd160"
 )
 

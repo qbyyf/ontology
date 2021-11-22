@@ -24,10 +24,10 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/crypto"
 	"github.com/holiman/uint256"
-	"github.com/ontio/ontology/vm/evm/params"
+	"github.com/qbyyf/ontology/vm/evm/params"
 )
 
 type TwoOperandTestcase struct {

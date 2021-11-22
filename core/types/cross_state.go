@@ -21,7 +21,7 @@ import (
 	"crypto/sha256"
 	"fmt"
 
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 )
 
 const (

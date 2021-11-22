@@ -27,10 +27,10 @@ import (
 	"io"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/constants"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/errors"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/constants"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/errors"
 )
 
 var Version = "v2.0.0" //Set value when build project

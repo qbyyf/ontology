@@ -23,11 +23,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/p2pserver/common"
-	"github.com/ontio/ontology/p2pserver/net/netserver"
-	p2p "github.com/ontio/ontology/p2pserver/net/protocol"
-	"github.com/ontio/ontology/p2pserver/peer"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/p2pserver/common"
+	"github.com/qbyyf/ontology/p2pserver/net/netserver"
+	p2p "github.com/qbyyf/ontology/p2pserver/net/protocol"
+	"github.com/qbyyf/ontology/p2pserver/peer"
 	"github.com/stretchr/testify/assert"
 )
 

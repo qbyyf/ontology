@@ -22,15 +22,15 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	vconfig "github.com/ontio/ontology/consensus/vbft/config"
-	"github.com/ontio/ontology/core/signature"
-	cstates "github.com/ontio/ontology/core/states"
-	"github.com/ontio/ontology/smartcontract/event"
-	"github.com/ontio/ontology/smartcontract/service/native"
-	ccom "github.com/ontio/ontology/smartcontract/service/native/cross_chain/common"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	vconfig "github.com/qbyyf/ontology/consensus/vbft/config"
+	"github.com/qbyyf/ontology/core/signature"
+	cstates "github.com/qbyyf/ontology/core/states"
+	"github.com/qbyyf/ontology/smartcontract/event"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
+	ccom "github.com/qbyyf/ontology/smartcontract/service/native/cross_chain/common"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 func PutBlockHeader(native *native.NativeService, blockHeader *ccom.Header, header []byte) error {

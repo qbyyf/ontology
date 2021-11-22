@@ -18,8 +18,8 @@
 package utils
 
 import (
-	"github.com/ethereum/go-ethereum/log"
-	olog "github.com/ontio/ontology/common/log"
+	"github.com/qbyyf/go-ethereum/log"
+	olog "github.com/qbyyf/ontology/common/log"
 )
 
 func OntLogHandler() log.Handler {

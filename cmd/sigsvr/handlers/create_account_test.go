@@ -20,7 +20,7 @@ package handlers
 import (
 	"testing"
 
-	clisvrcom "github.com/ontio/ontology/cmd/sigsvr/common"
+	clisvrcom "github.com/qbyyf/ontology/cmd/sigsvr/common"
 )
 
 func TestCreateAccount(t *testing.T) {

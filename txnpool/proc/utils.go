@@ -22,13 +22,13 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/core/ledger"
-	httpcom "github.com/ontio/ontology/http/base/common"
-	params "github.com/ontio/ontology/smartcontract/service/native/global_params"
-	nutils "github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/core/ledger"
+	httpcom "github.com/qbyyf/ontology/http/base/common"
+	params "github.com/qbyyf/ontology/smartcontract/service/native/global_params"
+	nutils "github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 // getGlobalGasPrice returns a global gas price

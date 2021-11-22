@@ -21,7 +21,7 @@ package ontfs
 import (
 	"encoding/binary"
 
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 	"golang.org/x/crypto/sha3"
 )
 

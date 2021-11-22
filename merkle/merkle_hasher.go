@@ -25,7 +25,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 )
 
 const (

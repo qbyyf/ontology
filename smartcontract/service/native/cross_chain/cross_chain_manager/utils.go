@@ -23,14 +23,14 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	cstates "github.com/ontio/ontology/core/states"
-	"github.com/ontio/ontology/merkle"
-	"github.com/ontio/ontology/smartcontract/event"
-	"github.com/ontio/ontology/smartcontract/service/native"
-	ccom "github.com/ontio/ontology/smartcontract/service/native/cross_chain/common"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	cstates "github.com/qbyyf/ontology/core/states"
+	"github.com/qbyyf/ontology/merkle"
+	"github.com/qbyyf/ontology/smartcontract/event"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
+	ccom "github.com/qbyyf/ontology/smartcontract/service/native/cross_chain/common"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 func putCrossChainID(native *native.NativeService, crossChainID uint64) error {

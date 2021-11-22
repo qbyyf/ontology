@@ -24,8 +24,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/common"
 )
 
 func HashBlock(blk *Block) (common.Uint256, error) {

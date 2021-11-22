@@ -23,7 +23,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ontio/ontology/core/store/leveldbstore"
+	"github.com/qbyyf/ontology/core/store/leveldbstore"
 	"github.com/stretchr/testify/assert"
 )
 

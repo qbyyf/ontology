@@ -21,11 +21,11 @@ package localrpc
 import (
 	"time"
 
-	"github.com/ontio/ontology/common/log"
-	bactor "github.com/ontio/ontology/http/base/actor"
-	"github.com/ontio/ontology/http/base/common"
-	berr "github.com/ontio/ontology/http/base/error"
-	"github.com/ontio/ontology/http/base/rpc"
+	"github.com/qbyyf/ontology/common/log"
+	bactor "github.com/qbyyf/ontology/http/base/actor"
+	"github.com/qbyyf/ontology/http/base/common"
+	berr "github.com/qbyyf/ontology/http/base/error"
+	"github.com/qbyyf/ontology/http/base/rpc"
 )
 
 func GetNeighbor(params []interface{}) map[string]interface{} {

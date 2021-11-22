@@ -26,8 +26,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/vm/neovm/types"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/vm/neovm/types"
 	"github.com/stretchr/testify/assert"
 )
 

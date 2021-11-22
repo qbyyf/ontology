@@ -24,7 +24,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ontio/ontology/p2pserver/common"
+	"github.com/qbyyf/ontology/p2pserver/common"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

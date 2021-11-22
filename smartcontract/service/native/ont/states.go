@@ -22,9 +22,9 @@ import (
 	"errors"
 
 	"github.com/laizy/bigint"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/states"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/states"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 // TransferStates

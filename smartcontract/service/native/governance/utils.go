@@ -24,15 +24,15 @@ import (
 	"fmt"
 
 	"github.com/ontio/ontology-crypto/vrf"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/serialization"
-	vbftconfig "github.com/ontio/ontology/consensus/vbft/config"
-	cstates "github.com/ontio/ontology/core/states"
-	"github.com/ontio/ontology/smartcontract/service/native"
-	"github.com/ontio/ontology/smartcontract/service/native/auth"
-	"github.com/ontio/ontology/smartcontract/service/native/ont"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/serialization"
+	vbftconfig "github.com/qbyyf/ontology/consensus/vbft/config"
+	cstates "github.com/qbyyf/ontology/core/states"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
+	"github.com/qbyyf/ontology/smartcontract/service/native/auth"
+	"github.com/qbyyf/ontology/smartcontract/service/native/ont"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
 )
 
 func GetPeerPoolMap(native *native.NativeService, contract common.Address, view uint32) (*PeerPoolMap, error) {

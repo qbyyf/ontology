@@ -22,13 +22,13 @@ import (
 	"fmt"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/core/ledger"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/core/vote"
-	msg "github.com/ontio/ontology/p2pserver/message/types"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/core/ledger"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/core/vote"
+	msg "github.com/qbyyf/ontology/p2pserver/message/types"
 )
 
 const ContextVersion uint32 = 0

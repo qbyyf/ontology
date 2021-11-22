@@ -23,10 +23,10 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ontio/ontology/smartcontract/service/evm/types"
-	"github.com/ontio/ontology/vm/evm"
-	"github.com/ontio/ontology/vm/evm/params"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/ontology/smartcontract/service/evm/types"
+	"github.com/qbyyf/ontology/vm/evm"
+	"github.com/qbyyf/ontology/vm/evm/params"
 )
 
 // List of evm-call-message pre-checking errors. All state transition messages will

@@ -21,8 +21,8 @@ package test
 import (
 	"testing"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/smartcontract/service/native/cross_chain/header_sync"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/smartcontract/service/native/cross_chain/header_sync"
 	"github.com/stretchr/testify/assert"
 )
 

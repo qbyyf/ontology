@@ -22,14 +22,14 @@ import (
 	"errors"
 	"net"
 
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/p2pserver/common"
-	"github.com/ontio/ontology/p2pserver/connect_controller"
-	"github.com/ontio/ontology/p2pserver/message/types"
-	p2p "github.com/ontio/ontology/p2pserver/net/protocol"
-	"github.com/ontio/ontology/p2pserver/peer"
-	"github.com/ontio/ontology/p2pserver/protocols"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/p2pserver/common"
+	"github.com/qbyyf/ontology/p2pserver/connect_controller"
+	"github.com/qbyyf/ontology/p2pserver/message/types"
+	p2p "github.com/qbyyf/ontology/p2pserver/net/protocol"
+	"github.com/qbyyf/ontology/p2pserver/peer"
+	"github.com/qbyyf/ontology/p2pserver/protocols"
 )
 
 //NewNetServer return the net object in p2p

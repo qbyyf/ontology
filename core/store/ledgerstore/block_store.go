@@ -24,11 +24,11 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/serialization"
-	scom "github.com/ontio/ontology/core/store/common"
-	"github.com/ontio/ontology/core/store/leveldbstore"
-	"github.com/ontio/ontology/core/types"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/serialization"
+	scom "github.com/qbyyf/ontology/core/store/common"
+	"github.com/qbyyf/ontology/core/store/leveldbstore"
+	"github.com/qbyyf/ontology/core/types"
 )
 
 //Block store save the data of block & transaction

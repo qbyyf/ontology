@@ -22,8 +22,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/merkle"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/merkle"
 	"github.com/stretchr/testify/assert"
 )
 

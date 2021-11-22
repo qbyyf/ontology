@@ -20,8 +20,8 @@ package evm
 import (
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ontio/ontology/core/types"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/ontology/core/types"
 )
 
 // StateDB is an EVM database for full state querying.

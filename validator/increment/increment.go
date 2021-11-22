@@ -22,12 +22,12 @@ import (
 	"fmt"
 	"sync"
 
-	ethcomm "github.com/ethereum/go-ethereum/common"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/core/ledger"
-	"github.com/ontio/ontology/core/types"
+	ethcomm "github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/core/ledger"
+	"github.com/qbyyf/ontology/core/types"
 )
 
 // IncrementValidator do increment check of transaction

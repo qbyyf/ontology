@@ -20,11 +20,11 @@ package sigsvr
 import (
 	"fmt"
 
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/cmd"
-	"github.com/ontio/ontology/cmd/sigsvr/store"
-	"github.com/ontio/ontology/cmd/utils"
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/cmd"
+	"github.com/qbyyf/ontology/cmd/sigsvr/store"
+	"github.com/qbyyf/ontology/cmd/utils"
+	"github.com/qbyyf/ontology/common"
 	"github.com/urfave/cli"
 )
 

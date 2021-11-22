@@ -24,9 +24,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
-	vconfig "github.com/ontio/ontology/consensus/vbft/config"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
+	vconfig "github.com/qbyyf/ontology/consensus/vbft/config"
 )
 
 func peerPool() *PeerPool {

@@ -20,10 +20,10 @@ package evm
 import (
 	"errors"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	errors2 "github.com/ontio/ontology/vm/evm/errors"
-	"github.com/ontio/ontology/vm/evm/params"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/common/math"
+	errors2 "github.com/qbyyf/ontology/vm/evm/errors"
+	"github.com/qbyyf/ontology/vm/evm/params"
 )
 
 // memoryGasCost calculates the quadratic gas for memory expansion. It does so

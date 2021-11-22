@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ontio/ontology/common"
+	"github.com/qbyyf/ontology/common"
 )
 
 type TransactionAttributeUsage byte

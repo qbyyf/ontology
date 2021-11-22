@@ -23,11 +23,11 @@ import (
 	"strings"
 
 	"github.com/ontio/ontology-crypto/keypair"
-	cmdcom "github.com/ontio/ontology/cmd/common"
-	"github.com/ontio/ontology/cmd/utils"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/constants"
-	"github.com/ontio/ontology/core/types"
+	cmdcom "github.com/qbyyf/ontology/cmd/common"
+	"github.com/qbyyf/ontology/cmd/utils"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/constants"
+	"github.com/qbyyf/ontology/core/types"
 	"github.com/urfave/cli"
 )
 

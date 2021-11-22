@@ -22,15 +22,15 @@ import (
 	"math/big"
 	"sync/atomic"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/config"
-	"github.com/ontio/ontology/common/log"
-	"github.com/ontio/ontology/core/ledger"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/errors"
-	"github.com/ontio/ontology/smartcontract/service/native/ont"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
-	types2 "github.com/ontio/ontology/validator/types"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/config"
+	"github.com/qbyyf/ontology/common/log"
+	"github.com/qbyyf/ontology/core/ledger"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/errors"
+	"github.com/qbyyf/ontology/smartcontract/service/native/ont"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
+	types2 "github.com/qbyyf/ontology/validator/types"
 )
 
 const (

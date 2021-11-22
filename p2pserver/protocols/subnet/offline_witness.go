@@ -23,13 +23,13 @@ import (
 	"math/rand"
 	"time"
 
-	common2 "github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/common/log"
-	vconfig "github.com/ontio/ontology/consensus/vbft/config"
-	"github.com/ontio/ontology/p2pserver/common"
-	"github.com/ontio/ontology/p2pserver/message/types"
-	p2p "github.com/ontio/ontology/p2pserver/net/protocol"
-	"github.com/ontio/ontology/p2pserver/protocols/utils"
+	common2 "github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/common/log"
+	vconfig "github.com/qbyyf/ontology/consensus/vbft/config"
+	"github.com/qbyyf/ontology/p2pserver/common"
+	"github.com/qbyyf/ontology/p2pserver/message/types"
+	p2p "github.com/qbyyf/ontology/p2pserver/net/protocol"
+	"github.com/qbyyf/ontology/p2pserver/protocols/utils"
 )
 
 const MinProposeDuration = uint32(1 * time.Hour / time.Second)

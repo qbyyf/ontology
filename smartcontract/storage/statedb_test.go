@@ -6,11 +6,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
-	comm "github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/store/leveldbstore"
-	"github.com/ontio/ontology/core/store/overlaydb"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/crypto"
+	comm "github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/store/leveldbstore"
+	"github.com/qbyyf/ontology/core/store/overlaydb"
 	"github.com/stretchr/testify/require"
 )
 

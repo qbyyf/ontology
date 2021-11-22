@@ -23,14 +23,14 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ontio/ontology/account"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/states"
-	"github.com/ontio/ontology/core/store/leveldbstore"
-	"github.com/ontio/ontology/core/store/overlaydb"
-	"github.com/ontio/ontology/smartcontract/service/native"
-	"github.com/ontio/ontology/smartcontract/service/native/utils"
-	"github.com/ontio/ontology/smartcontract/storage"
+	"github.com/qbyyf/ontology/account"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/states"
+	"github.com/qbyyf/ontology/core/store/leveldbstore"
+	"github.com/qbyyf/ontology/core/store/overlaydb"
+	"github.com/qbyyf/ontology/smartcontract/service/native"
+	"github.com/qbyyf/ontology/smartcontract/service/native/utils"
+	"github.com/qbyyf/ontology/smartcontract/storage"
 )
 
 func (g *Group) Serialize() []byte {

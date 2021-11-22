@@ -18,8 +18,8 @@
 package types
 
 import (
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ontio/ontology/vm/evm/errors"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/ontology/vm/evm/errors"
 )
 
 // ExecutionResult includes all output after executing given evm

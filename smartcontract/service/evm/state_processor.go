@@ -20,16 +20,16 @@ package evm
 import (
 	"math/big"
 
-	common2 "github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/store"
-	otypes "github.com/ontio/ontology/core/types"
-	types2 "github.com/ontio/ontology/smartcontract/service/evm/types"
-	"github.com/ontio/ontology/smartcontract/storage"
-	"github.com/ontio/ontology/vm/evm"
-	"github.com/ontio/ontology/vm/evm/params"
+	common2 "github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/core/types"
+	"github.com/qbyyf/go-ethereum/crypto"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/store"
+	otypes "github.com/qbyyf/ontology/core/types"
+	types2 "github.com/qbyyf/ontology/smartcontract/service/evm/types"
+	"github.com/qbyyf/ontology/smartcontract/storage"
+	"github.com/qbyyf/ontology/vm/evm"
+	"github.com/qbyyf/ontology/vm/evm/params"
 )
 
 func applyTransaction(msg types.Message, statedb *storage.StateDB, blockHeight uint32, tx *types.Transaction, usedGas *uint64, evm *evm.EVM, feeReceiver common.Address) (*types2.ExecutionResult, *otypes.Receipt, error) {

@@ -21,12 +21,12 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/ontio/ontology/common"
-	"github.com/ontio/ontology/core/payload"
-	"github.com/ontio/ontology/core/types"
-	"github.com/ontio/ontology/core/utils"
-	"github.com/ontio/ontology/vm/crossvm_codec"
-	vm "github.com/ontio/ontology/vm/neovm"
+	"github.com/qbyyf/ontology/common"
+	"github.com/qbyyf/ontology/core/payload"
+	"github.com/qbyyf/ontology/core/types"
+	"github.com/qbyyf/ontology/core/utils"
+	"github.com/qbyyf/ontology/vm/crossvm_codec"
+	vm "github.com/qbyyf/ontology/vm/neovm"
 )
 
 //neovm contract call wasmvm contract
