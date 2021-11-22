@@ -1,4 +1,4 @@
-module github.com/ontio/ontology
+module github.com/qbyyf/ontology
 
 go 1.17
 
