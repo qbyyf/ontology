@@ -2,6 +2,7 @@ module github.com/ontio/ontology
 
 go 1.17
 
+
 require (
 	github.com/JohnCGriffin/overflow v0.0.0-20170615021017-4d914c927216
 	github.com/Workiva/go-datastructures v1.0.50 // indirect
@@ -35,6 +36,7 @@ require (
 )
 
 replace (
+	github.com/ethereum/go-ethereum => github.com/qbyyf/go-ethereum@v1.9.25
 	golang.org/x/crypto => github.com/golang/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/net => github.com/golang/net v0.0.0-20210924151903-3ad01bbaa167
 	golang.org/x/sys => github.com/golang/sys v0.0.0-20210927052749-1cf2251ac284
